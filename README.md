@@ -80,11 +80,6 @@ jewellery_shop/
 ## 💎 Product Page  
 ![Product](screenshots/product.png)
 
-## 🛒 Shopping Cart  
-(Add Screenshot)
-
-## ❤️ Wishlist  
-(Add Screenshot)
 
 ## 👨‍💼 Admin Dashboard  
 ![Admin](screenshots/admin.png)
